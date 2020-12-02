@@ -1,0 +1,13 @@
+
+Input :
+
+- Input Flow Rate
+- Valve Response time
+- Desired output flow Rate
+
+Output :
+
+Signal (Open, Close) + time (Duration of signal process)
+
+
+Graph Data
