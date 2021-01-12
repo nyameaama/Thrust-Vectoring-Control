@@ -9,6 +9,7 @@ Output :
 
 Signal (Open, Close) + time (Duration of signal process)
 
+Requirements-
 
 Graph Data
 
