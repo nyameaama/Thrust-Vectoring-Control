@@ -1,4 +1,4 @@
-# Electro-Actuated-Solenoid-Valve
+# Thrust Vectoring Control 
 
 ### About
 
